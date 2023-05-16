@@ -37,14 +37,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
  
- ![image](https://github.com/RobertoRick/cloudP/assets/94848331/d6c92d77-c638-4ebd-b180-4a1cfd548716)
+ 									![image](https://github.com/RobertoRick/cloudP/assets/94848331/d6c92d77-c638-4ebd-b180-4a1cfd548716)
 
-Academia de Studii Economice București
-Facultatea de Cibernetică, Statistică și Informatică Economică
-Specializare: Sisteme informatice pentru managementul proceselor si resurselor economice
+												Academia de Studii Economice București
+											Facultatea de Cibernetică, Statistică și Informatică Economică
+										Specializare: Sisteme informatice pentru managementul proceselor si resurselor economice
 
 
-Biblioteca digitală
+												       **Biblioteca digitală**
 		
 
 
