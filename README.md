@@ -37,6 +37,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
  
+ ![image](https://github.com/RobertoRick/cloudP/assets/94848331/d6c92d77-c638-4ebd-b180-4a1cfd548716)
+
 Academia de Studii Economice București
 Facultatea de Cibernetică, Statistică și Informatică Economică
 Specializare: Sisteme informatice pentru managementul proceselor si resurselor economice
@@ -47,8 +49,10 @@ Biblioteca digitală
 
 
 
-Profesor:								Student:
-Timofte Carmen Manuela 					Olaru Rick Roberto
+Profesor: Timofte Carmen Manuela 	
+Student: Olaru Rick Roberto
+		
+
 
 
 
@@ -83,7 +87,9 @@ Aplicația noastră utilizează tehnologii cloud avansate pentru a oferi o exper
 •	Scalabilitate și disponibilitate în cloud: Utilizarea tehnologiilor cloud ne permite să ne scalăm aplicația în funcție de nevoile utilizatorilor. Având o bază de date în cloud și utilizând o platformă de găzduire precum Vercel, putem gestiona volumul mare de date și traficul crescut în mod eficient. Astfel, aplicația noastră este capabilă să ofere o performanță excelentă și să fie disponibilă 24/7, asigurând o experiență de utilizare consistentă și fără întreruperi.
 Prin utilizarea acestor tehnologii cloud avansate, aplicația noastră beneficiază de avantajele scalabilității, flexibilității și disponibilității, asigurând utilizatorilor o experiență fluidă și acces facil la biblioteca lor online.
 
+![image](https://github.com/RobertoRick/cloudP/assets/94848331/2203c30a-42d0-470f-83bb-626fdfd4fcde)
 
+![image](https://github.com/RobertoRick/cloudP/assets/94848331/88428083-b33f-441e-8252-aa615a32d170)
 
  
 
