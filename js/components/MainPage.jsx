@@ -59,13 +59,15 @@ export default function MainPage() {
               <p className="font-normal">Pages: {record.pages}</p>
               <p className="font-normal">Year: {record.year}</p>
               
-              {record.imageLink && (
-                <img
-                  src={`/${record.imageLink}`}
-                  alt="Book Cover"
-                  className="card-image"
-                />
-              )}
+			  {record.imageLink && (
+  <img
+    src={record.imageLink}
+    alt="Book Cover"
+    className="card-image"
+  />
+)}
+
+
 			  <div className="card-buttons">
 			  <button
   				type="button"
